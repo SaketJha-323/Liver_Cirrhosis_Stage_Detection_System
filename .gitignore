@@ -1,0 +1,9 @@
+# Ignore Python virtual environments
+.LCS/
+.venv/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore VS Code settings
+.vscode/
