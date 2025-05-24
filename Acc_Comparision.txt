@@ -1,0 +1,27 @@
+
+📊 Logistic Regression
+Accuracy: 0.5964
+
+📊 SGD Classifier
+Accuracy: 0.5838
+
+📊 LDA
+Accuracy: 0.5940
+
+📊 Random Forest
+Accuracy: 0.9476
+
+📊 XGBoost
+Accuracy: 0.9554
+
+📊 SVM
+Accuracy: 0.8416
+
+📊 KNN
+Accuracy: 0.8842
+
+📊 Gaussian
+Accuracy: 0.5054
+
+📊 StackingClassifier
+Accuracy: 0.9614
